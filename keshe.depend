@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1471245062 source:d:\keshe\keshe\main.c
+	"head.h"
+
+1471243089 d:\keshe\keshe\head.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<wincon.h>
+	<conio.h>
+	<string.h>
+	<io.h>
+	<fcntl.h>
+	<sys\stat.h>
+	<ctype.h>
+	<time.h>
+
